@@ -1,0 +1,26 @@
+{
+	"name": "art-site",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"dev": "gatsby develop -p 8000 -o"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Glen-Taylor37/Art-Site.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Glen-Taylor37/Art-Site/issues"
+	},
+	"homepage": "https://github.com/Glen-Taylor37/Art-Site#readme",
+	"dependencies": {
+		"gatsby": "^3.0.4",
+		"react": "^17.0.1",
+		"react-dom": "^17.0.1"
+	}
+}
