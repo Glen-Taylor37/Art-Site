@@ -1,5 +1,7 @@
 backend:
-  name: art-site
+  name: github
+  repo: Glen-Taylor37/Art-Site
+  branch: main
 
 media_folder: static/assets
 public_folder: /assets
