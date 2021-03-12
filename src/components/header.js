@@ -1,15 +1,11 @@
 import React from 'react';
 import { Link } from 'gatsby';
-import Container from 'react-bootstrap/Container';
 import Button from 'react-bootstrap/Button';
+import Navbar from './navbar';
+import { Container } from 'react-bootstrap';
 
 const Header = () => {
-	return (
-		<Container>
-			<div>Header</div>
-			<Button>Home</Button>
-		</Container>
-	);
+	return <Container>Header</Container>;
 };
 
 export default Header;
